@@ -1,4 +1,3 @@
-// src/components/AddUserModal.js
 import React, { useState } from 'react';
 import { Modal, Button, Form } from 'react-bootstrap';
 import { useDispatch } from 'react-redux';
